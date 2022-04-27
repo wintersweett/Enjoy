@@ -12,11 +12,11 @@
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
     <bytecodeTargetLevel>
-      <module name="EnjoyFix.app" target="1.8" />
+      <module name="EnjoyFix.app" target="11" />
       <module name="EnjoyFix.buildSrc" target="1.7" />
       <module name="EnjoyFix.mylibrary" target="1.8" />
       <module name="EnjoyFix.patch-hack" target="1.7" />
-      <module name="EnjoyFix.patch-lib" target="1.8" />
+      <module name="EnjoyFix.patch-lib" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
